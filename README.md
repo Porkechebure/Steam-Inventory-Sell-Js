@@ -1,6 +1,6 @@
 # Steam-Inventory-Sell-Js
 Selling script for steam inventory via browser
-
+NOTE: This is working as 27/12/2022. Might require changes later if steam changes his inventory html code.
 
 How to:
 Log in to steam via browser
